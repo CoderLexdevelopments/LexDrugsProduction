@@ -11,7 +11,7 @@ Design your own drugs, build custom production chains, operate laboratories, man
 ---
 
 <p align="center">
-  <img src="Lex-drug-prod.png" width="90%" alt="Customization"/>
+  <img src="assets/Images/Lex drug prod.png" widht="90%" alt="Customization"/>
 </p>
 
 [![Framework](https://img.shields.io/badge/Framework-ESX-blue)]()
@@ -42,12 +42,12 @@ Everything is managed live.
 
 # 📸 Showcase
 
+assets/Images/drugprod5.webp
 
-![Lab Preview](./images/lab-preview.jpg)
-
-
-![Recipe Editor](./images/recipe-editor.jpg)
-
+![Lab Preview](assets/Images/drugsprod.webp)
+![Recipe Editor](assets/Images/drugprods3.webp)
+![Recipe Editor](assets/Images/drugprods4.webp)
+![Recipe Editor](assets/Images/drugprod5.webp)
 
 # ✨ Core Features
 
@@ -582,20 +582,17 @@ ensure lex_drugs
 ## Discord
 
 ```text
-YOUR_DISCORD_USERNAME
+coderlex
 ```
 
-## Community
 
-```text
-https://discord.gg/YOUR_INVITE
-```
 
----
 
 # ❤️ Credits
 
-Developed by **Lex Coder Developments**
+Developed by **Lex Developments**
+
+NOTE: This is for showcase purpose only contact the developer for the full resources. 
 
 Professional FiveM Development
 
@@ -608,6 +605,6 @@ Professional FiveM Development
 
 <div align="center">
 
-### ⭐ If you enjoy the project, consider starring the repository.
+### ⭐ If you enjoy the project, consider reaching out to the 'coderlex' on discord. 
 
 </div>
