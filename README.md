@@ -42,8 +42,6 @@ Everything is managed live.
 
 # 📸 Showcase
 
-assets/Images/drugprod5.webp
-
 ![Lab Preview](assets/Images/drugsprod.webp)
 ![Recipe Editor](assets/Images/drugprods3.webp)
 ![Recipe Editor](assets/Images/drugprods4.webp)
